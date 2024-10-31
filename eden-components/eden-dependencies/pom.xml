@@ -40,8 +40,8 @@
 
 		<!-- 基础框架 -->
 		<cola.version>4.1.0</cola.version>
-		<spring-boot.version>2.4.13</spring-boot.version>
-		<spring-cloud.version>2020.0.1</spring-cloud.version>
+		<spring-boot.version>3.3.5</spring-boot.version>
+		<spring-cloud.version>2023.0.3</spring-cloud.version>
 
 		<!-- 效率组件 -->
 		<lombok.version>1.18.18</lombok.version>
@@ -150,8 +150,8 @@
 		<!-- 消息队列 -->
 		<spring-kafka.version>2.7.9</spring-kafka.version>
 		<kafka.version>2.7.2</kafka.version>
-		<rocketmq.version>4.7.1</rocketmq.version>
-		<rocketmq-spring-boot.version>2.1.1</rocketmq-spring-boot.version>
+		<rocketmq.version>5.3.1</rocketmq.version>
+		<rocketmq-spring-boot.version>2.3.1</rocketmq-spring-boot.version>
 
 		<!-- 分布式组件 -->
 		<dubbo.version>3.2.14</dubbo.version>
